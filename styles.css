@@ -1,13 +1,18 @@
 
 /* Your CSS Code here. */
 
-#btn{
-    background-color: rgb(0,0,0);
-    color: white;
-    border-radius: 5px;
+#btn {
+    width: 10em;
+    height: 5ex;
+    background-color: gold;
+    border: 2px solid firebrick;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
 }
-#btn:hover{
-    border-radius: 30px;
-    background-color: yellow;
-	color:black;
- }
+
+#btn:hover {
+    background-color: bisque;
+}
+
