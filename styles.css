@@ -4,11 +4,11 @@
 #btn {
     width: 10em;
     height: 5ex;
-    background-color: black;
+    background-color: rgb(0,0,0);
     border: 2px solid firebrick;
     border-radius: 5px;
     font-weight: bold;
-    color: white;
+    color:  rgb(255,255,255);
     cursor: pointer;
 	border:none;
 }
